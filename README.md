@@ -117,5 +117,5 @@ Con base en las conclusiones, se recomienda:
 
 ## Enlaces
 ### [Presentación] https://docs.google.com/presentation/d/1gDDdazi5lLMqglg3ENVL9Rzq2tfu_tS03o905YV2PRo/edit?usp=sharing
-### [Dashboard] 
+### [Dashboard] https://drive.google.com/file/d/1K_pHHTnbhPoavH5WFjv_HfCG_ZD8KG8-/view
 ### [Video Loom] https://www.loom.com/share/12d2bcb2bd384824bb80177efc5c964b?sid=6eea05bd-24ee-43b8-8e0f-91264f685123
