@@ -1,4 +1,4 @@
-# Proyecto_2: Éxito musical :notes:
+# Éxito musical :notes:
 En este proyecto, se llevará a cabo un análisis de validación de hipótesis utilizando una base de datos de Spotify. Para ello, emplearemos dos herramientas destacadas en el ámbito del análisis de datos: BigQuery y Power BI.
 
 ![caratula](https://github.com/user-attachments/assets/88f82157-1729-4d9e-884a-4b309e19e47d)
